@@ -1,5 +1,7 @@
 # source /bin/activate
 
+# line plot macht nicht so viel sinn, deswegen hist() benutzen
+
 import csv
 import matplotlib
 import matplotlib.pyplot
